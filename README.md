@@ -5,4 +5,4 @@ Use it to save a lot of time.
 
 ![Redstonecrafter0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redstonecrafter0&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redstonecrafter0&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redstonecrafter0&langs_count=8&theme=dark)

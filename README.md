@@ -28,9 +28,9 @@ Remember that you can do everything if you want to. If you can't, it's because y
 
 ## Tools
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jetbrains HUB](https://img.shields.io/badge/jetbrains_hub-000000?style=for-the-badge&logo=jetbrainshub&logoColor=white)  
-![Teamcity](https://img.shields.io/badge/teamcity-000000?style=for-the-badge&logo=teamcity&logoColor=white)  
-![YouTrack](https://img.shields.io/badge/youtrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)  
+![Jetbrains HUB](https://img.shields.io/badge/jetbrains_hub-000000?style=for-the-badge&logo=jetbrainshub&logoColor=white)
+![Teamcity](https://img.shields.io/badge/teamcity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
+![YouTrack](https://img.shields.io/badge/youtrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)
 ![Qodana](https://img.shields.io/badge/qodana-000000?style=for-the-badge&logo=qodana&logoColor=white)  
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)  

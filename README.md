@@ -2,10 +2,17 @@
 
 ### Hi there
 
-I'm Redstonecrafter0, 18 years old and student in Germany.  
-Here I have listed some stuff I do / use / learn / want to learn.  
-I'm very lazy but sometimes I spend a lot of time on the same problem.  
-Remember that you can do everything if you want to. If you can't, it's because you don't want it enough.
+```kt
+object Me {
+
+    const val name = "Redstonecrafter0"
+    const val age = 18
+    const val lazy = true
+    val lazyType = LazyType.SAVE_TIME
+    const val note = "Remember that you can do everything if you want to. If you can't, it's because you don't want it enough."
+
+}
+```
 
 ## Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -16,6 +23,8 @@ Remember that you can do everything if you want to. If you can't, it's because y
 ![Javascript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 ## IDEs
 ![IntelliJ](https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
@@ -28,6 +37,9 @@ Remember that you can do everything if you want to. If you can't, it's because y
 
 ## Tools
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/github_pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-181717?style=for-the-badge&logo=githubactions&logoColor=2088FF)  
 ![Jetbrains HUB](https://img.shields.io/badge/jetbrains_hub-000000?style=for-the-badge&logo=jetbrainshub&logoColor=white)
 ![Teamcity](https://img.shields.io/badge/teamcity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
 ![YouTrack](https://img.shields.io/badge/youtrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)

@@ -96,5 +96,8 @@ object Me {
 [![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/aZKuas4)
 
 ## Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redstonecrafter0&langs_count=5&theme=dark)  
-![Redstonecrafter0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redstonecrafter0&show_icons=true&theme=dark)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Redstonecrafter0&show_icons=true&theme=dark" alt="Redstonecrafter0's GitHub stats">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redstonecrafter0&langs_count=8&theme=dark" alt="Top Langs">
+</div>

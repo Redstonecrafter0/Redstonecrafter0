@@ -14,6 +14,8 @@ object Me {
 }
 ```
 
+![Github-3D-Contributions](https://raw.githubusercontent.com/Redstonecrafter0/Redstonecrafter0/master/profile-3d-contrib/profile-night-rainbow.svg)
+
 ## Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white)  

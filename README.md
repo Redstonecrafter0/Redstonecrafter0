@@ -59,7 +59,7 @@ object Me {
 ![Insomnia](https://img.shields.io/badge/insomnia-4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/junit5-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Fabric Modding](https://img.shields.io/badge/fabric_modding-62B47A.svg?style=for-the-badge&logo=minecraft&logoColor=white)
+![Fabric Modding](https://img.shields.io/badge/fabric_minecraft_modding-232323.svg?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAMAAABFNRROAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAYUExURTg0KtvQtLyynMa8pYB6ba6mlJqSfgAAAIyBx68AAAAIdFJOU%2F%2F%2F%2F%2F%2F%2F%2F%2F8A3oO9WQAAAAlwSFlzAAAOwwAADsMBx2%2BoZAAAAEhJREFUGFc1zAESACEIAkDUK%2F%2F%2F40A8a8odKbTL9woxza8cbiJMB6LMmYcKCWisvirxUThCpHJcVyT0hlsc%2BJd7PBqRhrVn9wMIKgLxcAar7gAAAABJRU5ErkJggg%3D%3D)
 
 ## Systems
 ![Windows 10](https://img.shields.io/badge/windows_10-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  

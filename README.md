@@ -19,6 +19,24 @@ object Me {
 
 ![Github-3D-Contributions](https://raw.githubusercontent.com/Redstonecrafter0/Redstonecrafter0/master/profile-3d-contrib/profile-night-rainbow.svg)
 
+## My GPG Public Key
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEYkF6nBYJKwYBBAHaRw8BAQdAaBnAqxNKRfEUejaDQCDKVTtU6rj7F5Y81YUo
+eq6bNsG0RVJlZHN0b25lY3JhZnRlcjAgKFRoYXQncyByZWFsbHkgbWUpIDxyZWRz
+dG9uZWNyYWZ0ZXIwLmluZm9AZ21haWwuY29tPoiQBBMWCAA4FiEEkWMGkLh609ML
+N/YTIsJP2+asWr0FAmJBepwCGwMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQ
+IsJP2+asWr2XZgEAh+nTwwn9Ek4vrkKW2YEfnGyFnZ0NK9rVw79rJby6RFgBAJ7K
+oALmcNrtH5kCNmgxWHadZqe6VQpVk6yQrCYLdqMCuDgEYkF6nBIKKwYBBAGXVQEF
+AQEHQN7rR/6QvH3SexPdQoUd0GQTiqfaP+qju76dMDQanR40AwEIB4h4BBgWCAAg
+FiEEkWMGkLh609MLN/YTIsJP2+asWr0FAmJBepwCGwwACgkQIsJP2+asWr2zjQD/
+fTrSI7qi77mZ6K1f13sdY5y5Ym7oxNwC3+GVb2yfrJ8BAIPraTmVHnPWQuFE8OOc
+rGxbnh2iWWn2mBQDyTxIDyIK
+=wNrF
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 ## Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white)  

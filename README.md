@@ -8,7 +8,6 @@ object Me {
     const val name = "Redstonecrafter0"
     const val age = 18
     const val lazy = true
-    val lazyType = LazyType.SAVE_TIME
     const val note = """
         Remember that you can do everything if you want to.
         If you can't, it's because you don't want it enough.

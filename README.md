@@ -113,6 +113,7 @@ rGxbnh2iWWn2mBQDyTxIDyIK
 ![WebAssembly](https://img.shields.io/badge/webassembly-323330.svg?style=for-the-badge&logo=webassembly&logoColor=654FF0)
 ![WebGL](https://img.shields.io/badge/webgl-990000.svg?style=for-the-badge&logo=webgl&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/webrtc-333333.svg?style=for-the-badge&logo=webrtc&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Contact
 [![Discord](https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/aZKuas4)

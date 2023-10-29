@@ -6,7 +6,7 @@
 object Me {
 
     const val name = "Redstonecrafter0"
-    const val age = 18
+    const val age = 19
     const val lazy = true
     const val note = """
         Remember that you can do everything if you want to.

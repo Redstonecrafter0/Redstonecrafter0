@@ -2,7 +2,7 @@
 
 ### Hi there
 
-```kt
+```kotlin
 object Me {
 
     const val name = "Redstonecrafter0"
